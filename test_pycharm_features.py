@@ -6,7 +6,9 @@
 import time
 import datetime
 
-
+class car:
+    def speed(self):
+        print(5)
 
 s="templates is autor of main"
 

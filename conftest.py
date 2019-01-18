@@ -7,6 +7,7 @@ Created on Thu Jan 17 16:49:45 2019
 
 import pytest
 
+#手脚架
 @pytest.fixture
 def username():
     return "hujun"
